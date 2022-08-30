@@ -9,5 +9,6 @@ For bootstrapping your validator node:
 - Sha 256 for genesis blob is `307f6846179c257badc4e50fbf1d7d4d332b82046e6ff297bff087c5a8efe68f`
 - Waypoint is `0:96d6b0c072ae759ee3d071d1b41a87b3bc983eb852a805e7054482235eace373`
 - Aptos node peer ID is `f326fd30` if you want to check your connection.
+- CLI `0.3.2` for ait3 https://github.com/aptos-labs/aptos-core/releases/tag/aptos-cli-v0.3.2
 
 Let us know if you have any questions, and looking forward to see your node coming online!
