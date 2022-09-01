@@ -1,3 +1,14 @@
+# Public Fullnode instruction
+
+Hey all, thank you for interested in running a fullnode on AIT3! Please follow the instructions to:
+
+1. Setup you fullnode following the [same instruction](https://aptos.dev/nodes/full-node/fullnode-for-devnet) as running fullnode on devnet, use the `testnet` branch and `testnet` docker image tag instead of the devnet one. 
+2. Replace the genesis.blob and waypoint from the above instruction to the files hosted in this repo.
+3. Make sure you start your fullnode with static identity, this is required for getting the fullnode reward. See instruction [here](https://aptos.dev/nodes/full-node/network-identity-fullnode)
+
+
+# Validator instructions
+
 Hey all, congratulation on getting selected as validator node for AIT3! Please follow the instructions to:
 
 1. Initialize your staking pool https://aptos.dev/nodes/ait/steps-in-ait3#initialize-staking-pool
