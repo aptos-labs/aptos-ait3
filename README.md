@@ -7,7 +7,7 @@ Hey all, thank you for interested in running a fullnode on AIT3! Please follow t
 3. Make sure you start your fullnode with static identity, this is required for getting the fullnode reward. See instruction [here](https://aptos.dev/nodes/full-node/network-identity-fullnode)
 
 
-# Validator instructions
+# Validator instruction
 
 Hey all, congratulation on getting selected as validator node for AIT3! Please follow the instructions to:
 
